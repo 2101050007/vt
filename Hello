@@ -1,0 +1,4 @@
+int main(){
+c=a/b
+print("the division of 2 numbers is",c)
+}
